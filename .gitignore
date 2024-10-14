@@ -1,0 +1,20 @@
+# Ignorar archivo de variables de entorno
+.env
+
+# Node modules
+node_modules/
+
+# Archivos de log
+*.log
+
+# Archivos de construcción
+dist/
+build/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de editor
+.vscode/
+.idea/
